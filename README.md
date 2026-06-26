@@ -13,6 +13,9 @@ The project combines correlation analysis, ranking techniques, window functions,
 
 The chart shows that average weekly sales during holiday periods ($1.12 million) were noticeably higher than during non-holiday periods ($1.04 million). This indicates that holidays had a positive effect on sales performance, contributing to an average sales increase of approximately 7.84% during holiday weeks.
 
+<img width="342" height="201" alt="image" src="https://github.com/user-attachments/assets/b266dd1b-c9c9-4a5d-aa87-db9f0c11b8a1" />
+
+
 
 **Sales performance by stores**
 

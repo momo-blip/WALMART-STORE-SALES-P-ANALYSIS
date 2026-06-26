@@ -6,15 +6,16 @@ This project analyses weekly sales performance across 45 Walmart stores to ident
 
 The project combines correlation analysis, ranking techniques, window functions, and interactive dashboards to generate business insights, including the impact of holidays on consumer spending and month-over-month sales growth. The findings support data-driven decision-making for inventory planning, promotional strategies, and store performance management.
 
-**key Insights**
+## key Insights
 
- ** Holiday vs nonholiday avg sales**
+ **Holiday vs nonholiday avg sales**
  
 
 The chart shows that average weekly sales during holiday periods ($1.12 million) were noticeably higher than during non-holiday periods ($1.04 million). This indicates that holidays had a positive effect on sales performance, contributing to an average sales increase of approximately 7.84% during holiday weeks.
 
 
 **Sales performance by stores**
+
 The sales analysis revealed substantial differences in performance among the 45 stores. Store 20 recorded the highest total weekly sales ($301.4 million), followed by Store 4 ($299.5 million) and Store 14 ($289.0 million).
 
  Conversely, Store 33 generated the lowest sales ($37.2 million), followed by Stores 44 and 5. 
